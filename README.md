@@ -1,4 +1,4 @@
-# Floppy Bird
+# Floppy Bird 🐦
 
 --- 
 
