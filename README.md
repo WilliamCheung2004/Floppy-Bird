@@ -11,11 +11,8 @@ This is my first Unity Project and is recreation of the original game - Flappy B
 
 ## Instructions
 To run the game just download all the files within <> Code and run the floppybird.exe to start playing.
-
---- 
-## Notes
 * Just use space bar to move bird up and down - otherwise just time your movement!
---
+--- 
 
 ## Credits 
 William Cheung 
