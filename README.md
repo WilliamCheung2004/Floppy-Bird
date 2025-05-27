@@ -5,7 +5,7 @@
 Hello to whoever is reading (If there is anyone who even reads these)
 Thanks for checking out my game!
 
-This is my first Unity Project and is recreation of the original game - Flappy Bird, all assets used are my own personal drawn images (apart from the clouds since I couldn't draw them great.
+This is my first Unity Project and is recreation of the original game - Flappy Bird, all assets used are my own personal drawn images (apart from the clouds since I couldn't draw them great.)
 
 ---
 
